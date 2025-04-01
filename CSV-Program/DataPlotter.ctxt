@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=DataPlotter
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=java.util.List\ generateData()
+comment3.params=data\ fileName
+comment3.target=void\ exportToCSV(java.util.List,\ java.lang.String)
+numComments=4
